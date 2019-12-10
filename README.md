@@ -1,6 +1,6 @@
 # lab-06-repository
 
-**Author**: Mattäus Mattäus & Daesy Stephens
+**Author**: Mattäus Sebastian Isenberg & Daesy Stephens
 **Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
 
 ## Overview
